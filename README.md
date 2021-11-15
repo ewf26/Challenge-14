@@ -37,6 +37,16 @@ long_window = 30
 <img width="321" alt="BestChanges" src="https://user-images.githubusercontent.com/86026996/141704080-044df65f-0695-49f5-9168-a1d8cf173ebf.png">
 
 
+## Logistic Regression Classifier
+
+I also ran the data with a logisitic regression.
+
+The graph didn't look like there was much of an improvement. In fact, according to the classification report, the SVM' accuracy score of .55 beat the logistic regression model's accuracy score of .52
+
+
+<img width="335" alt="LogisiticRegression" src="https://user-images.githubusercontent.com/86026996/141705666-f3f4b34d-dd4d-4807-b8db-d564caa245ab.png">
+
+
 
 
 
